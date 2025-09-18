@@ -41,26 +41,26 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tan-vai&label=Profile%20views&color=0e75b6&style=flat" alt="Tan-vai" />
+  <img src="https://komarev.com/ghpvc/?username=mrtan-official&label=Profile%20views&color=0e75b6&style=flat" alt="mrtan-official" />
 </p>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/github/followers/Tan-vai?style=social&label=follow"></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/mrtan-official?style=social&label=follow"></a>
 </p>
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://github.com/Tan-vai">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tan-vai&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-vai&layout=compact&theme=radical" />
+  <a href="https://github.com/mrtan-official">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtan-official&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtan-official&layout=compact&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Tan-vai&theme=radical" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=mrtan-official&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 <p align="center">
-  <a href="https://github.com/Tan-vai"><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=Tan-vai&theme=monokai"></a>
+  <a href="https://github.com/mrtan-official"><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=mrtan-official&theme=monokai"></a>
 </p>
 
 <h3 align="left">Support:</h3>
