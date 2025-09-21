@@ -101,6 +101,11 @@ I lead the Death Cyber Army team and love crafting bots, hacking tools, and expl
     <td>Android 9</td>
     <td>MTK MT6761</td>
   </tr>
+  <tr>
+    <td>Redmi 12c</td>
+    <td>Android 14</td>
+    <td>MediaTek Helio G85</td>
+  </tr>
 </table>
 
 ---
