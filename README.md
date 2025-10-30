@@ -18,7 +18,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ---
 
-## 🌟 TECH STACK SOLAR SYSTEM
+## 🌟 TECH STACK
 
 <div align="center">
 
