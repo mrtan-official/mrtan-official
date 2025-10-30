@@ -15,13 +15,13 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ---
 
-## 🌟 TECH STACK
-
 <div align="center">
+
+## 🌟 TECH STACK
 
 ### 🪐 Python Solar System
 
-<!-- Python Sun -->
+<!-- Python Solar System Animation -->
 <div style="position: relative; height: 400px; background: radial-gradient(circle at center, #0d1117 0%, #000000 100%); border-radius: 20px; margin: 20px 0; overflow: hidden;">
   
   <!-- Python Sun -->
@@ -70,8 +70,12 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 <style>
 @keyframes sun-glow {
-  from { filter: drop-shadow(0 0 20px #FFD43B) drop-shadow(0 0 40px #FFD43B); }
-  to { filter: drop-shadow(0 0 30px #FFD43B) drop-shadow(0 0 60px #FFD43B); }
+  from { 
+    filter: drop-shadow(0 0 20px #FFD43B) drop-shadow(0 0 40px #FFD43B); 
+  }
+  to { 
+    filter: drop-shadow(0 0 30px #FFD43B) drop-shadow(0 0 60px #FFD43B); 
+  }
 }
 
 .orbit {
@@ -101,8 +105,12 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 }
 
 @keyframes orbit {
-  from { transform: translate(-50%, -50%) rotate(0deg); }
-  to { transform: translate(-50%, -50%) rotate(360deg); }
+  from { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  to { 
+    transform: translate(-50%, -50%) rotate(360deg); 
+  }
 }
 
 /* Responsive adjustments */
@@ -183,7 +191,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
 
 </div>
-
 ---
 
 ## 🎯 ABOUT ME
