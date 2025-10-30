@@ -94,11 +94,11 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <br><strong>Nginx</strong>
 </td>
 </tr>
-
 </table>
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
 
 </div>
 
