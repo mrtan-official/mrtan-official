@@ -16,41 +16,26 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ---
 
-## ☀️ TECH STACK  
-
-### Python is the Sun ☀️ — Other Technologies Orbit Around It 🍂  
+## 🌟 TECH STACK
 
 <div align="center">
 
-<svg width="200" height="200" viewBox="0 0 200 200">
-  <circle class="orbit" cx="100" cy="100" r="80"/>
-  <circle class="planet" cx="180" cy="100" r="8"/>
-  <text x="88" y="105" fill="#FFD700" font-size="12" font-family="Fira Code">Python ☀️</text>
-</svg>
-
-<style>
-.orbit { fill: none; stroke: rgba(0,255,0,0.18); stroke-width: 1; }
-.planet { fill: #000; }
-</style>
-
-</div>
-
----
-
-### 🧠 Complete Arsenal
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-</p>
+### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
 
 <br>
 
-</div>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
+
+<br><br>
+
+### 🌌 Orbiting Technologies
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+</p>
 
 <br>
 
