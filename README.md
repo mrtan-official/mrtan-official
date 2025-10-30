@@ -68,32 +68,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <br><strong>CSS3</strong>
 </td>
 </tr>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
-<br><strong>PyCharm</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-</tr>
+
 </table>
 
 <br>
