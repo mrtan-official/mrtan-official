@@ -1,10 +1,9 @@
 <div align="center">
 
-# 💀 DEATH CYBER ARMY 💀
-
 <img src="https://i.postimg.cc/X7H4Dr5Z/1000009494.webp" width="200" style="border-radius: 50%;"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
+
 ### Hi 👋, I'm MR-TAN
 
 **🇧🇩 Passionate Programmer from Bangladesh**
@@ -20,22 +19,105 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 <div align="center">
 
-### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
+### 🪐 Python Solar System
 
-<br>
+<!-- Python Sun -->
+<div style="position: relative; height: 400px; background: radial-gradient(circle at center, #0d1117 0%, #000000 100%); border-radius: 20px; margin: 20px 0; overflow: hidden;">
+  
+  <!-- Python Sun -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" style="filter: drop-shadow(0 0 20px #FFD43B) drop-shadow(0 0 40px #FFD43B); animation: sun-glow 2s ease-in-out infinite alternate;" />
+  </div>
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
+  <!-- Orbiting Planets -->
+  <div class="orbit" style="--orbit-radius: 120px; --orbit-speed: 20s;">
+    <div class="planet" style="--planet-size: 40px; --planet-color: #F1502F;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="30" height="30" alt="GitHub" />
+    </div>
+  </div>
 
-<br><br>
+  <div class="orbit" style="--orbit-radius: 160px; --orbit-speed: 25s;">
+    <div class="planet" style="--planet-size: 35px; --planet-color: #4479A1;">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="25" height="25" alt="MySQL" />
+    </div>
+  </div>
 
-### 🌌 Orbiting Technologies
+  <div class="orbit" style="--orbit-radius: 200px; --orbit-speed: 30s;">
+    <div class="planet" style="--planet-size: 38px; --planet-color: #2496ED;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="28" height="28" alt="Docker" />
+    </div>
+  </div>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
-</p>
+  <div class="orbit" style="--orbit-radius: 240px; --orbit-speed: 35s;">
+    <div class="planet" style="--planet-size: 36px; --planet-color: #009639;">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="26" height="26" alt="Nginx" />
+    </div>
+  </div>
+
+  <div class="orbit" style="--orbit-radius: 280px; --orbit-speed: 40s;">
+    <div class="planet" style="--planet-size: 32px; --planet-color: #61DAFB;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="22" height="22" alt="Bash" />
+    </div>
+  </div>
+
+  <div class="orbit" style="--orbit-radius: 320px; --orbit-speed: 45s;">
+    <div class="planet" style="--planet-size: 34px; --planet-color: #FCC624;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" />
+    </div>
+  </div>
+
+</div>
+
+<style>
+@keyframes sun-glow {
+  from { filter: drop-shadow(0 0 20px #FFD43B) drop-shadow(0 0 40px #FFD43B); }
+  to { filter: drop-shadow(0 0 30px #FFD43B) drop-shadow(0 0 60px #FFD43B); }
+}
+
+.orbit {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: calc(var(--orbit-radius) * 2);
+  height: calc(var(--orbit-radius) * 2);
+  border: 1px solid rgba(0, 255, 0, 0.3);
+  border-radius: 50%;
+  animation: orbit var(--orbit-speed) linear infinite;
+}
+
+.planet {
+  position: absolute;
+  top: calc(var(--orbit-radius) - var(--planet-size) / 2);
+  left: calc(var(--planet-size) / -2);
+  width: var(--planet-size);
+  height: var(--planet-size);
+  background: var(--planet-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 10px var(--planet-color);
+}
+
+@keyframes orbit {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .orbit {
+    width: calc(var(--orbit-radius) * 1.5);
+    height: calc(var(--orbit-radius) * 1.5);
+  }
+  
+  .planet {
+    width: calc(var(--planet-size) * 0.8);
+    height: calc(var(--planet-size) * 0.8);
+  }
+}
+</style>
 
 <br>
 
