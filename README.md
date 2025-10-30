@@ -5,6 +5,7 @@
 <img src="https://i.postimg.cc/X7H4Dr5Z/1000009494.webp" width="200" style="border-radius: 50%;"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
+
 ### Hi 👋, I'm MR-TAN
 
 **🇧🇩 Passionate Programmer from Bangladesh**
@@ -16,30 +17,27 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ---
 
-## 🌟 TECH STACK
+## 🌟 TECH STACK SOLAR SYSTEM
 
 <div align="center">
 
-### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
+### 🌞 Python is the Sun - Other Technologies Orbit Around It 🪐
 
 <br>
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
-
-<br><br>
-
-### 🌌 Orbiting Technologies
-
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 </p>
 
 <br>
 
-### 💫 Complete Arsenal
+### 💫 My Tech Arsenal
 
 <table align="center">
 <tr>
@@ -52,53 +50,33 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <br><strong>Bash</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-<br><strong>CSS3</strong>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+<br><strong>MySQL</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
 <br><strong>PyCharm</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+<br><strong>GitHub</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+<br><strong>Linux</strong>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,bash,html,mysql,pycharm,github,linux&perline=7" />
 
 </div>
 
@@ -113,7 +91,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 ### 💡 Who Am I?
 
 - 🐍 **Fluent in Python**
-- 🛡️ **Cybersecurity Researcher & Ethical Hacker**
+- 🛡️ **Cybersecurity Researcher**
 - 💻 **Creator of Telegram Bots & Automation Tools**
 - 📈 **Dedicated to Daily Coding Streaks**
 - 👥 **Leader of Death Cyber Army**
@@ -148,8 +126,8 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 | 🤖 **Bot Development** | ![](https://geps.dev/progress/95?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 | 🐧 **Linux Systems** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 | ⚡ **Automation** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 🕸️ **Web Scraping** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 💻 **Ethical Hacking** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🗄️ **MySQL Database** | ![](https://geps.dev/progress/80?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🌐 **HTML Development** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 
 </div>
 
@@ -167,7 +145,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 - 🔓 **Hacking Tools** - Security Testing
 - ⚡ **Automation Scripts** - Task Automation
 - 💀 **Death Cyber Army** - Team Leadership
-- 🌐 **Web Scraping Tools** - Data Collection
+- 🌐 **Web Development** - Building Tools
 - 🔒 **Security Research** - Vulnerability Analysis
 
 </td>
@@ -177,12 +155,11 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 - 🐍 Python Programming
 - 💻 Bash Scripting
+- 🌐 HTML Development
+- 🗄️ MySQL Database
+- 🖥️ PyCharm IDE
+- 📦 GitHub Version Control
 - 🐧 Linux Terminal
-- 📦 Git & GitHub
-- 🤖 Telegram Bot API
-- 🕸️ Web Scraping Frameworks
-- 🔒 Security Tools
-- ⚡ Automation Frameworks
 
 </td>
 </tr>
@@ -216,32 +193,20 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
-
-### 📈 GitHub Statistics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtan-official&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtan-official&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
 
 <br><br>
 
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=mrtan-official&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=mrtan-official&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak"/>
 
 <br><br>
-
-### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mrtan-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-<br><br>
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtan-official&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -277,7 +242,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 | 💤 | Sleep is just a process I occasionally terminate |
 | 🐍 | In Python we trust, in cybersecurity we thrive |
 | 🤖 | If it can be automated, I'll make a bot for it |
-| 🔒 | Ethical hacking: Breaking things to make them stronger |
+| 🔧 | Building tools that make developers' lives easier |
 
 **⚡ Fun Fact:** I love exploring new tech frontiers and I'm always curious about emerging technologies!
 
@@ -303,22 +268,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 ✅ Never stop learning  
 ✅ Share knowledge with the community  
 ✅ Build tools that make a difference  
-✅ Ethical hacking for a safer world
-
-</div>
-
----
-
-## 📌 PINNED REPOSITORIES
-
-<div align="center">
-
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=telegram-bot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=automation-tools&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
+✅ Contribute to open source projects
 
 </div>
 
