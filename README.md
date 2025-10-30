@@ -96,9 +96,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
 
 </div>
 
