@@ -4,7 +4,7 @@
 
 <img src="https://i.postimg.cc/X7H4Dr5Z/1000009494.webp" width="200" style="border-radius: 50%;"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Devoloper+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
 
 ### Hi 👋, I'm MR-TAN
 
@@ -34,8 +34,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
 </p>
 
 <br>
@@ -53,53 +51,33 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <br><strong>Bash</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-<br><strong>CSS3</strong>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+<br><strong>MySQL</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
 <br><strong>PyCharm</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+<br><strong>GitHub</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+<br><strong>Linux</strong>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,bash,html,mysql,pycharm,github,linux&perline=7" />
 
 </div>
 
@@ -114,7 +92,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 ### 💡 Who Am I?
 
 - 🐍 **Fluent in Python**
-- 🛡️ **Cybersecurity Researcher & Ethical Hacker**
+- 🛡️ **Cybersecurity Researcher**
 - 💻 **Creator of Telegram Bots & Automation Tools**
 - 📈 **Dedicated to Daily Coding Streaks**
 - 👥 **Leader of Death Cyber Army**
@@ -150,7 +128,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 | 🐧 **Linux Systems** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 | ⚡ **Automation** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 | 🕸️ **Web Scraping** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 💻 **Ethical Hacking** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🗄️ **MySQL Database** | ![](https://geps.dev/progress/80?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 
 </div>
 
@@ -178,12 +156,11 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 - 🐍 Python Programming
 - 💻 Bash Scripting
+- 🌐 HTML Development
+- 🗄️ MySQL Database
+- 🖥️ PyCharm IDE
+- 📦 GitHub Version Control
 - 🐧 Linux Terminal
-- 📦 Git & GitHub
-- 🤖 Telegram Bot API
-- 🕸️ Web Scraping Frameworks
-- 🔒 Security Tools
-- ⚡ Automation Frameworks
 
 </td>
 </tr>
