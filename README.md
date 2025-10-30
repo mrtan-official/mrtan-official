@@ -19,6 +19,8 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ## 🌟 TECH STACK
 
+<div align="center">
+
 ### 🪐 Python Solar System
 
 <!-- Python Solar System Animation -->
