@@ -1,8 +1,3 @@
-<div align="center">
-
-# 💀 DEATH CYBER ARMY 💀
-
-<img src="https://i.postimg.cc/X7H4Dr5Z/1000009494.webp" width="200" style="border-radius: 50%;"/>
 
 <div align="center">
 
