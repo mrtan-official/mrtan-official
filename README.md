@@ -296,7 +296,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <div align="center">
 
 <a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=telegram-bot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=osint&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
 </a>
 <a href="https://github.com/mrtan-official">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=Setup-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
