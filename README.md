@@ -4,7 +4,7 @@
 
 <img src="https://i.postimg.cc/X7H4Dr5Z/1000009494.webp" width="200" style="border-radius: 50%;"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Programmer+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Devoloper+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
 
 ### Hi 👋, I'm MR-TAN
 
@@ -71,8 +71,8 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
-<br><strong>VS Code</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
+<br><strong>PyCharm</strong>
 </td>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
@@ -99,7 +99,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,vscode,github,docker,mysql,postgres,mongodb,nginx,redis,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,pycharm,github,docker,postgres,mongodb,nginx,redis,aws&perline=8" />
 
 </div>
 
