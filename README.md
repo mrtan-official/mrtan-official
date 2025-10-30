@@ -110,11 +110,10 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 ### 💡 Who Am I?
 
 - 🐍 **Fluent in Python**
-- 🛡️ **Cybersecurity Researcher & Ethical Hacker**
+- 🛡️ **Cybersecurity Researcher**
 - 💻 **Creator of Telegram Bots & Automation Tools**
 - 📈 **Dedicated to Daily Coding Streaks**
 - 👥 **Leader of Death Cyber Army**
-- 🇧🇩 **Proud to be from Bangladesh**
 
 </td>
 <td width="50%">
@@ -198,16 +197,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrtan_0fficial)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrTan_official)
 
-<br>
-
-### 📱 Quick Links
-
-| Platform | Handle |
-|----------|--------|
-| 📘 **Facebook** | [MrT4N.Official](https://www.facebook.com/MrT4N.Official) |
-| ✈️ **Telegram** | [@MrTan_official](https://t.me/MrTan_official) |
-| 📸 **Instagram** | [@mrtan_0fficial](https://www.instagram.com/mrtan_0fficial) |
-| ▶️ **YouTube** | [@MrTan_official](https://www.youtube.com/@MrTan_official) |
 
 </div>
 
