@@ -5,11 +5,11 @@
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
 <br><strong>Python</strong>
 </td>
 <td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="80" height="80" alt="GitHub" />
 <br><strong>GitHub</strong>
 </td>
 <td rowspan="3" align="center" width="350">
@@ -24,13 +24,13 @@
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80" height="80" alt="Bash" />
+<img src="https://skillicons.dev/icons?i=bash" width="80" height="80" alt="Bash" />
 <br><strong>Bash</strong>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
 <td align="center">
@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" width="80" height="80" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
 <td align="center">
@@ -56,11 +56,11 @@
 <br><strong>MongoDB</strong>
 </td>
 <td align="center">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="80" height="80" alt="Nginx" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80" height="80" alt="Nginx" />
 <br><strong>Nginx</strong>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
+<img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" />
 <br><strong>Git</strong>
 </td>
 </tr>
@@ -85,22 +85,26 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 <br>
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="120" height="120" />
 
 <br><br>
 
 ### 🌌 Orbiting Technologies
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" />
 </p>
+
+</div>
+
+---
 
 ## 🎯 ABOUT ME
 
@@ -132,6 +136,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
+---
 
 ## 🔥 SKILL MATRIX
 
@@ -149,6 +154,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
+---
 
 ## 🎯 CURRENT OPERATIONS
 
@@ -183,6 +189,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
+---
 
 ## 📡 CONNECT TO THE NETWORK
 
@@ -195,10 +202,9 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrtan_0fficial)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrTan_official)
 
-
 </div>
 
-
+---
 
 ## 📊 SYSTEM ANALYTICS
 
@@ -359,7 +365,5 @@ Together we build the future of tech! 💀⚡
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Death%20Cyber%20Army&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=72"/>
-
-</div>
 
 </div>
