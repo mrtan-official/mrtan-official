@@ -20,7 +20,7 @@
 <em>Death Cyber Army Leader</em>
 </td>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="150">
