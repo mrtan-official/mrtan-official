@@ -73,36 +73,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
-
-## 🌟 TECH STACK
-
-<div align="center">
-
-### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
-
-<br>
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
-
-<br><br>
-
-### 🌌 Orbiting Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="80" height="80" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" />
-</p>
-
-</div>
-
-
 ## 🎯 ABOUT ME
 
 <table>
