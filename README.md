@@ -54,7 +54,7 @@
 <br><strong>MongoDB</strong>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80" height="80" alt="Nginx" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80" height="80" alt="Nginx" />
 <br><strong>Nginx</strong>
 </td>
 <td align="center">
