@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
 <br><strong>Python</strong>
 </td>
 <td align="center" width="150">
@@ -20,7 +20,7 @@
 <em>Death Cyber Army Leader</em>
 </td>
 <td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="150">
@@ -85,7 +85,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="120" height="120" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
 
 <br><br>
 
