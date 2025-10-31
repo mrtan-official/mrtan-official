@@ -1,7 +1,4 @@
 <div align="center">
-
-# 💀 DEATH CYBER ARMY 💀
-
 <img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="300" style="border-radius: 50%;"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%E2%9A%A1)](https://git.io/typing-svg)
