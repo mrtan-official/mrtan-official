@@ -105,7 +105,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 ## 🔥 SKILL MATRIX
 
-<div align="center">
+
 
 | Skill | Level |
 |-------|-------|
