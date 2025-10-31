@@ -307,9 +307,9 @@ Together we build the future of tech! 💀⚡
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrtan-official&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=00ff00&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=ff0000&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=mrtan-official&label=PROFILE+VIEWS&color=4CAF50&labelColor=1E1E1E&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=2196F3&labelColor=1E1E1E)
+![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=FFC107&labelColor=1E1E1E)
 
 <br>
 
