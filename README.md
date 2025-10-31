@@ -1,7 +1,5 @@
 <div align="center">
 
-# 💀 DEATH CYBER ARMY 💀
-
 <table>
 <tr>
 <td align="center" width="150">
@@ -104,7 +102,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
 
 ## 🎯 ABOUT ME
 
@@ -136,8 +133,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
----
-
 ## 🔥 SKILL MATRIX
 
 <div align="center">
@@ -154,7 +149,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
 
 ## 🎯 CURRENT OPERATIONS
 
@@ -189,7 +183,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
----
 
 ## 📡 CONNECT TO THE NETWORK
 
@@ -204,7 +197,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
 
 ## 📊 SYSTEM ANALYTICS
 
@@ -235,7 +227,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
 
 ## 💻 SYSTEM INFORMATION
 
@@ -251,7 +242,6 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
 
 ## 🎮 FUN FACTS
 
@@ -273,7 +263,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
+
 
 ## 🎯 CODING PHILOSOPHY
 
@@ -297,7 +287,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
+
 
 ## 📌 PINNED REPOSITORIES
 
@@ -318,7 +308,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
----
+
 
 ## 💰 SUPPORT THE MISSION
 
@@ -335,7 +325,7 @@ Together we build the future of tech! 💀⚡
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -353,7 +343,7 @@ Together we build the future of tech! 💀⚡
 
 <br>
 
----
+
 
 ### 👤 MR-TAN | 💀 DEATH CYBER ARMY  
 ### 📍 Bangladesh 🇧🇩 | ⚡ Code. Hack. Repeat.
