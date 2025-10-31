@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80" alt="MySQL" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
 <td align="center">
