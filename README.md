@@ -46,7 +46,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="80" height="80" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
 <td align="center">
