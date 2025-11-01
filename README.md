@@ -31,7 +31,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="60" height="60" />
 </picture>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
@@ -57,9 +57,11 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <br><strong>Linux</strong>
 </td>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-<br><strong>Git</strong>
-</td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="80" height="80" />
+  <br><strong>Git</strong>
+</picture>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
 <br><strong>HTML5</strong>
