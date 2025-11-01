@@ -10,8 +10,8 @@
 
 **🇧🇩 Passionate Programmer from Bangladesh**
 
-*I'm specializing in **Python** and **Cybersecurity**.  
-*I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
+I'm specializing in **Python** and **Cybersecurity**.  
+I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
 
 ## 🌟 TECH STACK
 
