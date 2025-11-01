@@ -1,77 +1,104 @@
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github" width="80" height="80" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
 <td rowspan="3" align="center" width="350">
 <img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="280" style="border-radius: 50%; border: 5px solid #00ff00;"/>
 <br><br>
 <strong style="font-size: 24px;">MR-TAN</strong>
 <br>
 <em>Death Cyber Army Leader</em>
-</td>
-<td align="center" width="150">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=bash" width="80" height="80" alt="Bash" />
-<br><strong>Bash</strong>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" height="80" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80" height="80" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" />
-<br><strong>Git</strong>
-</td>
-</tr>
-</table>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-**🇧🇩 Passionate Programmer from Bangladesh**
+**🇧🇩 Passionate Programmer**
 
 I'm specializing in **Python** and **Cybersecurity**.  
 I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
 
 </div>
+
+---
+
+## 🌟 TECH STACK
+
+<div align="center">
+
+### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
+
+<br>
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
+
+<br><br>
+
+### 🌌 Orbiting Technologies
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+</p>
+
+<br>
+
+### 💫 Complete Arsenal
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Bash" />
+<br><strong>Bash</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
+<br><strong>PyCharm</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" alt="Nginx" />
+<br><strong>Nginx</strong>
+</td>
+</tr>
+</table>
+
+
+</div>
+
 
 ## 🎯 ABOUT ME
 
@@ -103,9 +130,10 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 </tr>
 </table>
 
+
 ## 🔥 SKILL MATRIX
 
-
+<div align="center">
 
 | Skill | Level |
 |-------|-------|
@@ -165,7 +193,9 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrtan_0fficial)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrTan_official)
 
+
 </div>
+
 
 
 ## 📊 SYSTEM ANALYTICS
@@ -197,6 +227,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
+---
 
 ## 💻 SYSTEM INFORMATION
 
@@ -212,6 +243,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
+---
 
 ## 🎮 FUN FACTS
 
@@ -233,7 +265,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
-
+---
 
 ## 🎯 CODING PHILOSOPHY
 
@@ -257,7 +289,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
-
+---
 
 ## 📌 PINNED REPOSITORIES
 
@@ -278,7 +310,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 
 </div>
 
-
+---
 
 ## 💰 SUPPORT THE MISSION
 
@@ -295,7 +327,7 @@ Together we build the future of tech! 💀⚡
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -307,13 +339,13 @@ Together we build the future of tech! 💀⚡
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrtan-official&label=PROFILE+VIEWS&color=4CAF50&labelColor=1E1E1E&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=2196F3&labelColor=1E1E1E)
-![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=FFC107&labelColor=1E1E1E)
+![Profile Views](https://komarev.com/ghpvc/?username=mrtan-official&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=00ff00&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=00ff00&labelColor=0d1117)
 
 <br>
 
-
+---
 
 ### 👤 MR-TAN | 💀 DEATH CYBER ARMY  
 ### 📍 Bangladesh 🇧🇩 | ⚡ Code. Hack. Repeat.
