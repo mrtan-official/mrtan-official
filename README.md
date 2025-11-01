@@ -11,7 +11,7 @@
 **🇧🇩 Passionate Programmer from Bangladesh**
 
 I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
----
+<div align="left">
 ## 🌟 TECH STACK
 
 <div align="center">
