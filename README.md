@@ -29,7 +29,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 ### 🌌 Orbiting Technologies
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" style="background-color: white; border-radius: 8px; padding: 5px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" style="background-color: white; border-radius: 10px; padding: 6px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
