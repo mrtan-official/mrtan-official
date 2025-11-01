@@ -4,14 +4,14 @@
 <br><br>
 <strong style="font-size: 24px;">MR-TAN</strong>
 <br>
-<em>Death Cyber Army Leader</em>    
+<em>Death Cyber Army Leader</em>   
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 **🇧🇩 Passionate Programmer from Bangladesh**
 
-I'm specializing in **Python** and **Cybersecurity**.  
-I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
----
+*I'm specializing in **Python** and **Cybersecurity**.  
+*I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
 
 ## 🌟 TECH STACK
 
