@@ -59,7 +59,7 @@ I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and 
 <td align="center" width="100">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="60" height="60" />
   <br><strong>Git</strong>
 </picture>
 <td align="center" width="100">
