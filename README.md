@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR-TAN&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=38&desc=Death%20Cyber%20Army%20Leader&descAlignY=60&descSize=20&descColor=00ff00"/>
-
 <!-- After uploading orbit.svg to repo root, replace URL below with your raw GitHub URL -->
 <!-- Format: https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/orbit.svg -->
 <img src="https://raw.githubusercontent.com/mrtan-official/mrtan-official/main/orbit.svg" width="500" height="500" alt="MR-TAN orbiting tech stack"/>
