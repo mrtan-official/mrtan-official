@@ -2,360 +2,82 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR-TAN&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=38&desc=Death%20Cyber%20Army%20Leader&descAlignY=60&descSize=20&descColor=00ff00"/>
 
-</div>
+<img src="orbit.svg" width="400" height="400" alt="MR-TAN orbiting tech stack"/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%F0%9F%92%80)](https://git.io/typing-svg)
 
-<table>
-<tr>
-<td align="center" valign="middle" width="120">
-
-<!-- Left side animated icons -->
-<img src="https://skillicons.dev/icons?i=python" width="45" height="45" style="animation: spin 2s linear infinite;"/><br>
-<img src="https://skillicons.dev/icons?i=bash" width="45" height="45"/><br>
-<img src="https://skillicons.dev/icons?i=c" width="45" height="45"/><br>
-<img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
-
-</td>
-<td align="center" width="320">
-
-<img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="250" style="border-radius: 50%; border: 5px solid #00ff00;"/>
-
-<br><br>
-
-<strong style="font-size: 24px;">MR-TAN</strong><br>
-<em>Death Cyber Army Leader</em>
-
-</td>
-<td align="center" valign="middle" width="120">
-
-<!-- Right side animated icons -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br>
-<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br>
-<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br>
-<img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-**🇧🇩 Passionate Programmer from Bangladesh**
-
-I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
+**🇧🇩 Python & Cybersecurity Specialist from Bangladesh**  
+🐍 Python · 💻 Bash · 🌐 HTML · ⚡ C · 🟢 Node.js · 🗄️ MySQL · 🐧 Linux · 🐉 Kali
 
 </div>
 
 ---
 
-## 🌟 TECH STACK
+## 🎯 About Me
 
-<div align="center">
-
-### Python is the Sun ☀️ - Other Technologies Orbit Around It 🪐
-
-<br>
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="120" height="120" />
-
-<br><br>
-
-### 💫 Complete Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,html,nodejs,mysql,github,linux&perline=8" />
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Bash" />
-<br><strong>Bash</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C" />
-<br><strong>C</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="100">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="65" height="65" />
-</picture>
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-</tr>
-</table>
-
-</div>
+- 🛡️ Cybersecurity Researcher & Ethical Hacker
+- 🤖 Creator of Telegram Bots & Automation Tools
+- 👥 Leader of **Death Cyber Army**
+- 🔒 Security first · Automate everything · Never stop learning
 
 ---
 
-## 🎯 ABOUT ME
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Who Am I?
-
-- 🐍 **Fluent in Python**
-- 🛡️ **Cybersecurity Researcher**
-- 💻 **Creator of Telegram Bots & Automation Tools**
-- 📈 **Dedicated to Daily Coding Streaks**
-- 👥 **Leader of Death Cyber Army**
-
-</td>
-<td width="50%">
-
-### 🔥 My Passion
-
-- 🤖 **Crafting Bots**
-- 🔓 **Building Hacking Tools**
-- 🚀 **Exploring New Tech Frontiers**
-- ⚡ **Automation Everything**
-- 🔒 **Securing Systems**
-- 🌐 **Contributing to Open Source**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 SKILL MATRIX
+## 🔥 Skill Matrix
 
 <div align="center">
 
 | Skill | Level |
 |-------|-------|
-| 🐍 **Python Development** | ![](https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 🔒 **Cybersecurity** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 🤖 **Bot Development** | ![](https://geps.dev/progress/95?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 🐧 **Linux Systems** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| ⚡ **Automation** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 🕸️ **Web Scraping** | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
-| 💻 **Ethical Hacking** | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🐍 Python Development | ![](https://geps.dev/progress/100?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🔒 Cybersecurity | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🤖 Bot Development | ![](https://geps.dev/progress/95?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 🐧 Linux Systems | ![](https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| ⚡ Automation | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
+| 💻 Ethical Hacking | ![](https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00) |
 
 </div>
 
 ---
 
-## 🎯 CURRENT OPERATIONS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔨 Active Projects
-
-- 🤖 **Telegram Bots** - Automation & Downloads
-- 🔓 **Hacking Tools** - Security Testing
-- ⚡ **Automation Scripts** - Task Automation
-- 💀 **Death Cyber Army** - Team Leadership
-- 🌐 **Web Scraping Tools** - Data Collection
-- 🔒 **Security Research** - Vulnerability Analysis
-
-</td>
-<td width="50%">
-
-### 🛠️ Arsenal
-
-- 🐍 Python Programming
-- 💻 Bash Scripting
-- 🐧 Linux Terminal
-- 📦 Git & GitHub
-- 🤖 Telegram Bot API
-- 🕸️ Web Scraping Frameworks
-- 🔒 Security Tools
-- ⚡ Automation Frameworks
-
-</td>
-</tr>
-</table>
-
----
-
-## 📡 CONNECT TO THE NETWORK
+## 💻 Devices
 
 <div align="center">
 
-### 🌐 Find Me On
+| Device | OS | Status |
+|--------|-----|--------|
+| 🖥️ Workstation Alpha | Windows 10 Pro | 🟢 Online |
+| 🐉 Kali Linux VM | Kali Linux 2025.4 (VirtualBox) | 🟢 Online |
+| 📱 Huawei Y6 Prime 2019 | Android 9 | 🟢 Online |
+| 📱 Redmi 12C | Android 14 | 🟢 Online |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrtan-official&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtan-official&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
+
+<img src="https://streak-stats.demolab.com/?user=mrtan-official&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtan-official&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 📡 Connect
+
+<div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MrT4N.Official)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrTan_official)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrtan_0fficial)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrTan_official)
-
-</div>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-### 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtan-official&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtan-official&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
-
-<br><br>
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=mrtan-official&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak"/>
-
-<br><br>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrtan-official&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-<br><br>
-
-### 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtan-official&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 💻 SYSTEM INFORMATION
-
-<div align="center">
-
-### 🖥️ Active Devices
-
-| Device | OS | Processor | Status |
-|--------|----|-----------| -------|
-| 🖥️ **Workstation Alpha** | Windows 10 Pro | Intel Core i3 | 🟢 Online |
-| 🐉 **Kali Linux VM** | Kali Linux 2025.4 (VirtualBox) | AMD64 / 2 Core | 🟢 Online |
-| 📱 **Huawei Y6 Prime 2019** | Android 9 | MTK MT6761 | 🟢 Online |
-| 📱 **Redmi 12C** | Android 14 | MediaTek Helio G85 | 🟢 Online |
-
-</div>
-
----
-
-## 🎮 FUN FACTS
-
-<div align="center">
-
-### 💡 Random Bytes About Me
-
-| Fact | Description |
-|------|-------------|
-| 💀 | I debug with print() statements like a true warrior |
-| ☕ | Coffee + Code = Unstoppable force |
-| 😅 | I'm funny... most of the time |
-| 💤 | Sleep is just a process I occasionally terminate |
-| 🐍 | In Python we trust, in cybersecurity we thrive |
-| 🤖 | If it can be automated, I'll make a bot for it |
-| 🔒 | Ethical hacking: Breaking things to make them stronger |
-
-**⚡ Fun Fact:** I love exploring new tech frontiers and I'm always curious about emerging technologies!
-
-</div>
-
----
-
-## 🎯 CODING PHILOSOPHY
-
-<div align="center">
-
-### 💀 Death Cyber Army Motto
-
-**"Code. Hack. Repeat."**
-
-<br>
-
-### 📜 My Principles
-
-✅ Write clean, efficient code  
-✅ Security first, always  
-✅ Automate everything possible  
-✅ Never stop learning  
-✅ Share knowledge with the community  
-✅ Build tools that make a difference  
-✅ Ethical hacking for a safer world
-
-</div>
-
----
-
-## 📌 PINNED REPOSITORIES
-
-<div align="center">
-
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=osint&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=Setup-Tool&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=spider&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
-<a href="https://github.com/mrtan-official">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrtan-official&repo=bomber&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
-</a>
-
-</div>
-
----
-
-## 💰 SUPPORT THE MISSION
-
-<div align="center">
-
-### ☕ Buy Me A Coffee
-
-Every contribution helps fuel more bots, tools, and cybersecurity research!  
-Together we build the future of tech! 💀⚡
-
-<br>
-
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrtan_official)
-
-</div>
-
----
-
-<div align="center">
-
-## 💀 DEATH CYBER ARMY 💀
-
-### ⚡ WHERE CODE MEETS CYBERSECURITY ⚡
-
-**🐍 Python Powered** | **🔒 Security Focused** | **🇧🇩 Made in Bangladesh**
 
 <br>
 
@@ -363,17 +85,14 @@ Together we build the future of tech! 💀⚡
 ![GitHub followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=ffcc00&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=00c8ff&labelColor=0d1117)
 
----
-
-### 👤 MR-TAN | 💀 DEATH CYBER ARMY  
-### 📍 Bangladesh 🇧🇩 | ⚡ Code. Hack. Repeat.
-
-**Thanks for visiting! Stay curious, stay coding!** 💀⚡
-
-**Let's connect and build amazing things together!** 🚀
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Death%20Cyber%20Army&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=72"/>
+<div align="center">
+
+**💀 Code. Hack. Repeat. | 🇧🇩 Made in Bangladesh**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Death%20Cyber%20Army&fontSize=38&fontColor=00ff00&animation=twinkling&fontAlignY=72"/>
 
 </div>
