@@ -2,27 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR-TAN&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=38&desc=Death%20Cyber%20Army%20Leader&descAlignY=60&descSize=20&descColor=00ff00"/>
 
-</div>
-
-<div align="center">
-
-<!--
-  HOW THE ORBIT WORKS:
-  - orbit.svg must be committed to repo root (same folder as README.md)
-  - Profile pic sits on top using a negative margin trick
--->
-
-<img src="https://raw.githubusercontent.com/mrtan-official/mrtan-official/main/orbit.svg" width="500" height="500" alt="orbit"/>
-
-</div>
-
-<div align="center" style="margin-top:-310px; margin-bottom:260px;">
-
-<img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="180" style="border-radius:50%; border:4px solid #00ff00;" alt="MR-TAN"/>
-
-</div>
-
-<div align="center">
+<!-- After uploading orbit.svg to repo root, replace URL below with your raw GitHub URL -->
+<!-- Format: https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/orbit.svg -->
+<img src="https://raw.githubusercontent.com/mrtan-official/mrtan-official/main/orbit.svg" width="500" height="500" alt="MR-TAN orbiting tech stack"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%F0%9F%92%80)](https://git.io/typing-svg)
 
