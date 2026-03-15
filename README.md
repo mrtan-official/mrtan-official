@@ -6,8 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%F0%9F%92%80)](https://git.io/typing-svg)
 
-**🇧🇩 Python & Cybersecurity Specialist from Bangladesh**  
-🐍 Python · 💻 Bash · 🌐 HTML · ⚡ C · 🟢 Node.js · 🗄️ MySQL · 🐧 Linux · 🐉 Kali
+**🇧🇩 Python & Cybersecurity Specialist from Bangladesh**
 
 </div>
 
@@ -15,8 +14,9 @@
 
 ## 🎯 About Me
 
-- 🛡️ Cybersecurity Researcher & Ethical Hacker
-- 🤖 Creator of Telegram Bots & Automation Tools
+- 🐍 **Fluent in Python** — Primary language
+- 🛡️ **Cybersecurity Researcher** & Ethical Hacker
+- 🤖 Creator of **Telegram Bots** & Automation Tools
 - 👥 Leader of **Death Cyber Army**
 - 🔒 Security first · Automate everything · Never stop learning
 
