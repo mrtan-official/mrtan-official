@@ -1,0 +1,1 @@
+rm /mnt/user-data/outputs/README.md && cp /home/claude/orbit.svg /mnt/user-data/outputs/orbit.svg
