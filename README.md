@@ -1,16 +1,57 @@
 <div align="center">
-<td rowspan="3" align="center" width="350">
-<img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="280" style="border-radius: 50%; border: 5px solid #00ff00;"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR-TAN&fontSize=80&fontColor=00ff00&animation=twinkling&fontAlignY=38&desc=Death%20Cyber%20Army%20Leader&descAlignY=60&descSize=20&descColor=00ff00"/>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="middle" width="120">
+
+<!-- Left side animated icons -->
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45" style="animation: spin 2s linear infinite;"/><br>
+<img src="https://skillicons.dev/icons?i=bash" width="45" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=c" width="45" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
+
+</td>
+<td align="center" width="320">
+
+<img src="https://i.postimg.cc/1zkqjC1k/mrtan.png" width="250" style="border-radius: 50%; border: 5px solid #00ff00;"/>
+
 <br><br>
-<strong style="font-size: 24px;">MR-TAN</strong>
-<br>
-<em>Death Cyber Army Leader</em>   
-  
+
+<strong style="font-size: 24px;">MR-TAN</strong><br>
+<em>Death Cyber Army Leader</em>
+
+</td>
+<td align="center" valign="middle" width="120">
+
+<!-- Right side animated icons -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/><br>
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 **🇧🇩 Passionate Programmer from Bangladesh**
 
 I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber Army** team and love crafting bots, hacking tools, and exploring new tech frontiers.
+
+</div>
+
+---
 
 ## 🌟 TECH STACK
 
@@ -24,21 +65,13 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 
 <br><br>
 
-### 🌌 Orbiting Technologies
+### 💫 Complete Arsenal
 
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="60" height="60" />
-</picture>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c,html,nodejs,mysql,github,linux&perline=8" />
 </p>
 
 <br>
-
-### 💫 Complete Arsenal
 
 <table align="center">
 <tr>
@@ -51,55 +84,38 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 <br><strong>Bash</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="100">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="60" height="60" />
-  <br><strong>Git</strong>
-</picture>
-<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm" />
-<br><strong>PyCharm</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C" />
+<br><strong>C</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-<br><strong>Docker</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+<br><strong>Node.js</strong>
 </td>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" alt="GitHub" width="65" height="65" />
+</picture>
+<br><strong>GitHub</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="65" height="65" alt="Nginx" />
-<br><strong>Nginx</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+<br><strong>Linux</strong>
 </td>
 </tr>
 </table>
 
-
 </div>
 
+---
 
 ## 🎯 ABOUT ME
 
@@ -131,6 +147,7 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 </tr>
 </table>
 
+---
 
 ## 🔥 SKILL MATRIX
 
@@ -148,6 +165,7 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 
 </div>
 
+---
 
 ## 🎯 CURRENT OPERATIONS
 
@@ -182,6 +200,7 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 </tr>
 </table>
 
+---
 
 ## 📡 CONNECT TO THE NETWORK
 
@@ -194,10 +213,9 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrtan_0fficial)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MrTan_official)
 
-
 </div>
 
-
+---
 
 ## 📊 SYSTEM ANALYTICS
 
@@ -239,6 +257,7 @@ I'm specializing in **Python** and **Cybersecurity**. I lead the **Death Cyber A
 | Device | OS | Processor | Status |
 |--------|----|-----------| -------|
 | 🖥️ **Workstation Alpha** | Windows 10 Pro | Intel Core i3 | 🟢 Online |
+| 🐉 **Kali Linux VM** | Kali Linux 2025.4 (VirtualBox) | AMD64 / 2 Core | 🟢 Online |
 | 📱 **Huawei Y6 Prime 2019** | Android 9 | MTK MT6761 | 🟢 Online |
 | 📱 **Redmi 12C** | Android 14 | MediaTek Helio G85 | 🟢 Online |
 
