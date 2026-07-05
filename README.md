@@ -2,7 +2,7 @@
 
 <!-- After uploading orbit.svg to repo root, replace URL below with your raw GitHub URL -->
 <!-- Format: https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/orbit.svg -->
-<img src="https://raw.githubusercontent.com/mrtan-official/mrtan-official/main/orbit.svg" width="500" height="500" alt="MR-TAN orbiting tech stack"/>
+<img src="https://raw.githubusercontent.com/Mr74nX/Mr74nX/main/orbit.svg" width="500" height="500" alt="MR-TAN orbiting tech stack"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Python+Developer+%F0%9F%90%8D;Cybersecurity+Researcher+%F0%9F%92%80;Bot+Creator+%F0%9F%A4%96;Death+Cyber+Army+Leader+%F0%9F%92%80)](https://git.io/typing-svg)
 
@@ -58,12 +58,12 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrtan-official&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtan-official&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mr74nX&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr74nX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
 
-<img src="https://streak-stats.demolab.com/?user=mrtan-official&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00"/>
+<img src="https://streak-stats.demolab.com/?user=Mr74nX&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrtan-official&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr74nX&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true"/>
 
 </div>
 
@@ -81,9 +81,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrtan-official&label=PROFILE+VIEWS&color=ff005c&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/mrtan-official?style=for-the-badge&color=ffcc00&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/mrtan-official?style=for-the-badge&color=00c8ff&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Mr74nX&label=PROFILE+VIEWS&color=ff005c&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Mr74nX?style=for-the-badge&color=ffcc00&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/Mr74nX?style=for-the-badge&color=00c8ff&labelColor=0d1117)
 
 </div>
 
